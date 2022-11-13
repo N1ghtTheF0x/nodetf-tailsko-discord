@@ -1,0 +1,20 @@
+{
+    "name": "@nodetf/tailsko-discord",
+    "version": "1.0.0",
+    "description": "Personal Assistent",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "ts-node test.ts",
+        "start": "ts-node index.ts"
+    },
+    "author": "N1ghtTheF0x",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^18.11.9",
+        "ts-node": "latest",
+        "typescript": "latest"
+    },
+    "dependencies": {
+        "discord.js": "^14.6.0"
+    }
+}
